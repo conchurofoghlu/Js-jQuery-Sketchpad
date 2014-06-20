@@ -1,0 +1,22 @@
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+.square {
+	margin: 1px;
+	display: inline-block;
+	background-color: #f0f0f0;
+}
+
+.gridColor {
+	background-color: #0f0f0f;
+}
+#button {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+.row {
+	margin: 1px 1px 1px 1px;
+}
